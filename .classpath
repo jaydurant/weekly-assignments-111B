@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="week4"/>
 	<classpathentry kind="src" path="week5"/>
+	<classpathentry kind="src" path="week6"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
