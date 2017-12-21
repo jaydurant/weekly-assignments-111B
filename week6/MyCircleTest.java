@@ -1,4 +1,3 @@
-
 //Jason Durant
 
 public class MyCircleTester {
